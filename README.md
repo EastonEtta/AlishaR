@@ -1,2 +1,0 @@
-# AlishaR
-Alisha's website.
